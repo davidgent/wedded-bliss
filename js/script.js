@@ -4,7 +4,7 @@
 
 
 jQuery(window).load(function() {
-	alert("working");
+	
 	// define window position and scroll tracking variables
 	var windowHeight, windowScrollPosTop, windowScrollPosBottom = 0;
 	
